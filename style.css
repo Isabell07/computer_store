@@ -95,10 +95,17 @@ ul{padding: 0;
 
 }
 
-aside{
-    background-color: #055815;
-    width: 244px;
-    height: 49px;
+aside {
+    padding: 0;
+    margin: 0;
+    height: 47px;
+}
+.moneyback-sale{
+
+    padding-left: 33px;
+    padding-top: 3px;
+    padding-bottom: 0;
+
 }
 
 
